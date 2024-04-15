@@ -79,11 +79,11 @@ export default function Layout2() {
             <BsFlower3 className=" mr-4" />
             <div>
               <div>
-                07:00: Anh sẽ đón nàng nhé ♥ rồi chúng ta đi cafe bệt ở công
-                viên Tao Đàn
+                07:00: Anh sẽ đón em nhé ♥ rồi tụi mình đi cafe bệt ở công
+                viên 3/2 - Đối diện Dinh Độc Lập 
               </div>
               <div className="text-xl font-normal">
-                Sẵn tiện thì mình ghé mua xôi mặn luôn nhé{" "}
+                Anh sẽ ghé mua há cảo rồi sang rước em nhen
               </div>
             </div>
           </div>
